@@ -1,0 +1,28 @@
+body {
+	background-color: #fffffff;
+}
+		.ab {
+			display: inline-block;
+			width: 100px;
+			height: 100px;
+			background: #676767;
+			border-radius: 50%;
+			margin:10px;
+
+		}
+		.ac {
+			display: inline-block;
+			width: 100px;
+			height: 100px;
+			background: #7f7f7f;
+			border-radius: 50%;
+			margin:10px;
+		
+		}
+		
+	a {
+		display:block;
+		text-decoration:none;
+		font: 20px cracked;
+		position:center;
+	}
